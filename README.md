@@ -1,4 +1,4 @@
-# Ethereum Yellow Paper 日本語訳
+# Ethereum Yellow Paper — Japanese Translation / 日本語訳
 
 Japanese translation of the Ethereum Yellow Paper.
 Ethereum Yellow Paper（Gavin Wood）の日本語訳です。
